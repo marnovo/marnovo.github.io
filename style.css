@@ -2,6 +2,8 @@
 body {
 	background-color: #17191e;
     font-family: "Source Sans Pro", "Lucida Grande", "Lucida Sans", "Helvetica", "Segoe";
+    font-size: 2em; /* fallback */ 
+    font-size: 1.5vw; /* relative to viewport */
 }
 #box {
 	/* box colors */
