@@ -1,0 +1,7 @@
+#bg:before {
+  background-image: url("") !important;
+}
+
+#logo {
+    clip-path: circle(60px at center);
+}
